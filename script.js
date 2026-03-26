@@ -5,106 +5,101 @@ const translations = {
         slides: [
             {
                 type: "title",
-                title: "CASINO RESORT INVESTMENT",
-                subtitle: "Puerto Peñasco (Rocky Point), Sonora, Mexico",
-                description: "Prime Coastal Development Opportunity with Full Local Support",
+                title: "ENCANTO PROJECT",
+                subtitle: "The Future of Medical Tourism & Luxury Gaming",
+                description: "A 67-Hectare Prime Coastal Development in Puerto Peñasco, Sonora, Mexico",
                 date: "March 25, 2026"
             },
             {
                 type: "grid",
-                title: "Executive Summary",
+                title: "Executive Vision",
                 content: [
-                    "World-class casino resort on privately titled, beach-adjacent land.",
-                    "Strong government & security backing (Mexican Navy, Guardia Nacional).",
-                    "Ready-to-develop land – 67.43 hectares (166.63 acres) directly on the coast.",
-                    "Proven local partners: TRS Construction + Munro family network.",
-                    "Integrated medical tourism synergy via the new Hospital Project.",
-                    "High ROI potential through tourism, gaming, and real estate."
-                ]
-            },
-            {
-                type: "grid",
-                title: "Why Puerto Peñasco?",
-                content: [
-                    "World-renowned beaches and proximity to U.S. border (3 hours from Phoenix/Tucson).",
-                    "Explosive tourism growth: Spring Break, snowbirds, and international visitors.",
-                    "Existing infrastructure + major upcoming developments.",
-                    "Pro-casino political environment with full local and state support."
-                ]
-            },
-            {
-                type: "grid",
-                title: "Unmatched Security",
-                content: [
-                    "Crime Index: 24.07 (Low) – Significantly lower than many U.S. beach towns.",
-                    "Safety walking alone during daylight: Very High (94.83%).",
-                    "Zero reported high-impact crimes against tourists in resort areas over 5 years.",
-                    "Designated Tourism Safety Corridor with permanent Navy & Guardia Nacional presence."
-                ]
-            },
-            {
-                type: "grid",
-                title: "Medical Leadership",
-                content: [
-                    "Dr. Jaime León Varela – Director General of HSUS, public-health leader.",
-                    "Dr. Miguel Ángel Padilla – Prominent local surgeon, former Navy Captain.",
-                    "Strategic Hospital Project: Three-phase development, focused on medical tourism.",
-                    "Perfect synergy with the casino resort: attracts high-value tourists."
+                    "World-class Casino Resort & Luxury Private Hospital integration.",
+                    "Strategic 67.43-hectare (166.63 acres) beachfront development.",
+                    "Unprecedented security backed by the Mexican Navy & Guardia Nacional.",
+                    "Leadership by the Munro family and Harvard/MIT-educated experts.",
+                    "High-yield potential driven by medical tourism and premium gaming.",
+                    "Full municipal and state government support (Pro-Investment)."
                 ]
             },
             {
                 type: "image",
-                title: "Available Land",
-                images: [
-                    "PHOTO-2026-02-25-12-03-00%202.jpg",
-                    "PHOTO-2026-02-25-12-03-00.jpg",
-                    "PHOTO-2026-02-25-12-03-00%203.jpg"
-                ],
+                title: "Strategic Location",
+                image: "assets/site_render.png",
                 content: [
-                    "Fracción G14: 37 hectares (91.43 acres)",
-                    "Fracción II-B12-4: 20 hectares (49.64 acres)",
-                    "Fracción II-B12-1: 10.3 hectares (25.56 acres)",
-                    "Total: 67.43 hectares (166.63 acres) – Fully Titled & Ready."
+                    "Location: Rocky Point (Puerto Peñasco), the 'Arizona Beach'.",
+                    "Proximity: Only 3 hours from Phoenix and Tucson, Arizona.",
+                    "Connectivity: International airport and major road infrastructure.",
+                    "Land: Fully titled, privately owned, and ready for development.",
+                    "Zoning: Optimized for Hospital, Casino, and Residential synergy."
                 ]
             },
             {
                 type: "grid",
-                title: "Construction Partner",
+                title: "Security & Stability",
                 content: [
-                    "TRS Construction (Mesa, Arizona) – U.S.-based general contractor.",
-                    "Over 10 years of experience in large-scale residential and commercial projects.",
-                    "Offices in Mesa, AZ – ideal for cross-border logistics.",
-                    "Proven track record in quality craftsmanship and on-time delivery."
+                    "Tourism Safety Corridor: 24/7 surveillance and protection.",
+                    "Law Enforcement: Permanent Navy and National Guard presence.",
+                    "Community: High safety index (significantly safer than many U.S. cities).",
+                    "Political: Stable environment with direct ties to local governance.",
+                    "Zero high-impact crimes against tourists in resort areas (5-year record)."
+                ]
+            },
+            {
+                type: "image",
+                title: "Encanto Hospital",
+                image: "assets/hospital_night.png",
+                content: [
+                    "Director: Dr. Jaime León Varela (General Director of HSUS).",
+                    "Scope: Three-phase development focused on high-end medical surgery.",
+                    "Market: Capturing the $5B US cross-border medical tourism industry.",
+                    "Facilities: State-of-the-art diagnostic and surgical wings.",
+                    "Partners: Dr. Miguel Ángel Padilla (Ex-Navy Captain & Elite Surgeon)."
+                ]
+            },
+            {
+                type: "image",
+                title: "Encanto Casino Resort",
+                image: "assets/resort_casino.png",
+                content: [
+                    "Concept: Ultra-luxury gaming destination with ocean views.",
+                    "Amenities: Infinity pools, private beach club, and five-star dining.",
+                    "Gaming: Full casino license with international standards.",
+                    "Real Estate: Integrated luxury villas and condominiums.",
+                    "Synergy: Hospital guests provide a steady flow of high-value patrons."
                 ]
             },
             {
                 type: "grid",
                 title: "Leadership Team",
                 content: [
-                    "Ernesto Roger Munro Jr. – Ex-Mayor & Re-elected Mayor (2015-2021), Federal Deputy.",
-                    "Harvard & MIT-educated, specialized in corporate and real estate law.",
-                    "Ernesto Munro Sr. – Former Secretary of Public Security of Sonora.",
-                    "Multiple-term State Congressman, decades of political and business influence."
+                    "Ernesto Roger Munro Jr: Former Mayor, Harvard/MIT Law Specialist.",
+                    "Ernesto Munro Sr: Former Secretary of Public Security of Sonora.",
+                    "TRS Construction: US-based partner (Mesa, AZ) with 10+ years experience.",
+                    "HSUS Medical Group: Leading the healthcare strategy and operations.",
+                    "Direct family ties to state and federal legislative bodies."
                 ]
             },
             {
                 type: "grid",
                 title: "Economic Impact",
                 content: [
-                    "Direct creation of 1,500+ permanent jobs in construction and hospitality.",
-                    "Thousands of indirect jobs for local families.",
-                    "Boost to tourism, real estate values, and municipal revenue.",
-                    "'We don’t just build a casino — we build futures for the people of Puerto Peñasco.'"
+                    "Jobs: 1,500+ direct permanent positions created.",
+                    "Community: Thousands of indirect jobs and local business growth.",
+                    "Revenue: Significant increase in municipal tax and tourism income.",
+                    "Vision: 'Elevating Puerto Peñasco to a world-class global destination.'",
+                    "Sustainability: Modern eco-friendly infrastructure and planning."
                 ]
             },
             {
                 type: "grid",
-                title: "Next Steps",
+                title: "Investment Roadmap",
                 content: [
-                    "Schedule confidential due-diligence meeting in Las Vegas or Puerto Peñasco.",
-                    "Review full land titles, engineering studies, and financial projections.",
-                    "Sign mutual NDA (already prepared).",
-                    "Move to Letter of Intent within 30 days."
+                    "Phase 1: Due-diligence and site inspection (Las Vegas/Rocky Point).",
+                    "Phase 2: Review of land titles and engineering feasibility.",
+                    "Phase 3: Finalizing project scope and financial structures.",
+                    "Step 4: Signing of the Letter of Intent (LOI) within 30 days.",
+                    "Confidentiality: NDA ready for execution by interested parties."
                 ]
             }
         ]
@@ -115,106 +110,101 @@ const translations = {
         slides: [
             {
                 type: "title",
-                title: "INVERSIÓN EN CASINO RESORT",
-                subtitle: "Puerto Peñasco (Rocky Point), Sonora, México",
-                description: "Oportunidad de Desarrollo Costero de Primer Nivel con Apoyo Local Total",
+                title: " PROYECTO ENCANTO",
+                subtitle: "El Futuro del Turismo Médico y Juego de Lujo",
+                description: "Desarrollo Costero de 67 Hectáreas en Puerto Peñasco, Sonora, México",
                 date: "25 de Marzo, 2026"
             },
             {
                 type: "grid",
-                title: "Resumen Ejecutivo",
+                title: "Visión Ejecutiva",
                 content: [
-                    "Casino resort de clase mundial en terrenos con título privado adyacentes a la playa.",
-                    "Fuerte respaldo gubernamental y de seguridad (Semar, Guardia Nacional).",
-                    "Terrenos listos para desarrollar – 67.43 hectáreas directamente en la costa.",
-                    "Socios locales comprobados: TRS Construction + Red de la familia Munro.",
-                    "Sinergia integrada de turismo médico a través del nuevo Proyecto de Hospital.",
-                    "Alto potencial de ROI a través del turismo, juegos de azar y bienes raíces."
-                ]
-            },
-            {
-                type: "grid",
-                title: "¿Por qué Puerto Peñasco?",
-                content: [
-                    "Playas de renombre mundial y proximidad a la frontera con EE. UU. (3 horas de Phoenix/Tucson).",
-                    "Crecimiento explosivo del turismo: Spring Break, jubilados y visitantes internacionales.",
-                    "Infraestructura existente + grandes desarrollos próximos.",
-                    "Entorno político pro-casino con pleno apoyo local y estatal."
-                ]
-            },
-            {
-                type: "grid",
-                title: "Seguridad Inigualable",
-                content: [
-                    "Índice de Criminalidad: 24.07 (Bajo) – Significativamente menor que muchas ciudades costeras de EE. UU.",
-                    "Seguridad al caminar solo durante el día: Muy Alta (94.83%).",
-                    "Cero delitos de alto impacto reportados contra turistas en áreas de resort en 5 años.",
-                    "Corredor de Seguridad Turística con presencia permanente de la Marina y Guardia Nacional."
-                ]
-            },
-            {
-                type: "grid",
-                title: "Liderazgo Médico",
-                content: [
-                    "Dr. Jaime León Varela – Director General de HSUS, líder en salud pública.",
-                    "Dr. Miguel Ángel Padilla – Destacado cirujano local, ex Capitán de la Marina.",
-                    "Proyecto de Hospital Estratégico: Desarrollo en tres fases, enfocado en turismo médico.",
-                    "Sinergia perfecta con el casino resort: atrae turistas de alto valor."
+                    "Integración de Casino Resort de clase mundial y Hospital Privado.",
+                    "Desarrollo estratégico de 67.43 hectáreas frente al mar.",
+                    "Seguridad sin precedentes respaldada por la Marina y Guardia Nacional.",
+                    "Liderazgo de la familia Munro y expertos educados en Harvard/MIT.",
+                    "Alto potencial de rendimiento impulsado por el turismo médico.",
+                    "Apoyo total del gobierno municipal y estatal (Pro-Inversión)."
                 ]
             },
             {
                 type: "image",
-                title: "Terrenos Disponibles",
-                images: [
-                    "PHOTO-2026-02-25-12-03-00%202.jpg",
-                    "PHOTO-2026-02-25-12-03-00.jpg",
-                    "PHOTO-2026-02-25-12-03-00%203.jpg"
-                ],
+                title: "Ubicación Estratégica",
+                image: "assets/site_render.png",
                 content: [
-                    "Fracción G14: 37 hectáreas",
-                    "Fracción II-B12-4: 20 hectáreas",
-                    "Fracción II-B12-1: 10.3 hectáreas",
-                    "Total: 67.43 hectáreas – Totalmente tituladas y listas."
+                    "Ubicación: Puerto Peñasco, conocida como 'La Playa de Arizona'.",
+                    "Proximidad: A solo 3 horas de Phoenix y Tucson, Arizona.",
+                    "Conectividad: Aeropuerto internacional e infraestructura vial moderna.",
+                    "Terrenos: Títulos privados completos, listos para desarrollar.",
+                    "Zonificación: Optimizada para hospital, casino y área residencial."
                 ]
             },
             {
                 type: "grid",
-                title: "Socio de Construcción",
+                title: "Seguridad y Estabilidad",
                 content: [
-                    "TRS Construction (Mesa, Arizona) – Contratista general con sede en EE. UU.",
-                    "Más de 10 años de experiencia en proyectos residenciales y comerciales a gran escala.",
-                    "Oficinas en Mesa, AZ – ideal para logística transfronteriza.",
-                    "Historial comprobado en artesanía de calidad y entrega a tiempo."
+                    "Corredor de Seguridad Turística: Vigilancia 24/7.",
+                    "Fuerzas del Orden: Presencia permanente de la Marina y Guardia Nacional.",
+                    "Comunidad: Alto índice de seguridad (más seguro que muchas ciudades de EE. UU.).",
+                    "Política: Entorno estable con vínculos directos al gobierno local.",
+                    "Cero delitos de alto impacto contra turistas en áreas de resort (récord de 5 años)."
+                ]
+            },
+            {
+                type: "image",
+                title: "Hospital Encanto",
+                image: "assets/hospital_night.png",
+                content: [
+                    "Director: Dr. Jaime León Varela (Director General de HSUS).",
+                    "Alcance: Tres fases enfocadas en cirugía de alta especialidad.",
+                    "Mercado: Capturando la industria de turismo médico de $5MM USD.",
+                    "Instalaciones: Alas de diagnóstico y quirófanos de vanguardia.",
+                    "Socios: Dr. Miguel Ángel Padilla (Ex Capitán de Marina y Cirujano de Élite)."
+                ]
+            },
+            {
+                type: "image",
+                title: "Encanto Casino Resort",
+                image: "assets/resort_casino.png",
+                content: [
+                    "Concepto: Destino de juego de ultra-lujo con vistas al mar.",
+                    "Amenidades: Piscinas infinitas, club de playa privado y alta cocina.",
+                    "Juego: Licencia de casino completa con estándares internacionales.",
+                    "Bienes Raíces: Villas y condominios de lujo integrados.",
+                    "Sinergia: El flujo constante de pacientes atrae clientes de alto valor."
                 ]
             },
             {
                 type: "grid",
                 title: "Equipo de Liderazgo",
                 content: [
-                    "Ernesto Roger Munro Jr. – Ex-Alcalde y Alcalde Reelecto (2015-2021), Diputado Federal.",
-                    "Educado en Harvard y MIT, especializado en derecho corporativo y mobiliario.",
-                    "Ernesto Munro Sr. – Ex Secretario de Seguridad Pública de Sonora.",
-                    "Diputado Local por varios periodos, décadas de influencia política y empresarial."
+                    "Ernesto Roger Munro Jr: Ex Alcalde, Especialista Legal Harvard/MIT.",
+                    "Ernesto Munro Sr: Ex Secretario de Seguridad Pública de Sonora.",
+                    "TRS Construction: Socio en EE. UU. (Mesa, AZ) con 10+ años de experiencia.",
+                    "HSUS Medical Group: Liderando la estrategia y operaciones de salud.",
+                    "Vínculos directos con órganos legislativos estatales y federales."
                 ]
             },
             {
                 type: "grid",
                 title: "Impacto Económico",
                 content: [
-                    "Creación directa de más de 1,500 empleos permanentes en construcción y hospitalidad.",
-                    "Miles de empleos indirectos para familias locales.",
-                    "Impulso al turismo, valores inmobiliarios e ingresos municipales.",
-                    "'No sólo construimos un casino, construimos futuros para la gente de Puerto Peñasco'."
+                    "Empleos: Creación de más de 1,500 puestos directos permanentes.",
+                    "Comunidad: Miles de empleos indirectos y crecimiento de negocios locales.",
+                    "Ingresos: Incremento significativo en impuestos municipales y turismo.",
+                    "Visión: 'Elevando a Puerto Peñasco a un destino global de clase mundial'.",
+                    "Sustentabilidad: Infraestructura y planeación moderna y ecológica."
                 ]
             },
             {
                 type: "grid",
-                title: "Próximos Pasos",
+                title: "Hoja de Ruta de Inversión",
                 content: [
-                    "Programar reunión confidencial de debida diligencia en Las Vegas o Puerto Peñasco.",
-                    "Revisar títulos de propiedad completos, estudios de ingeniería y proyecciones financieras.",
-                    "Firmar acuerdo de confidencialidad mutuo (ya preparado).",
-                    "Pasar a Carta de Intención en un plazo de 30 días."
+                    "Fase 1: Debida diligencia e inspección (Las Vegas/Puerto Peñasco).",
+                    "Fase 2: Revisión de títulos de propiedad y factibilidad técnica.",
+                    "Fase 3: Finalización del alcance del proyecto y estructura financiera.",
+                    "Paso 4: Firma de la Carta de Intención (LOI) en 30 días.",
+                    "Confidencialidad: NDA listo para ser firmado por las partes interesadas."
                 ]
             }
         ]
@@ -230,7 +220,7 @@ const langToggle = document.getElementById('lang-toggle');
 const langText = document.getElementById('lang-text');
 const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
-
+const footerText = document.getElementById('footer-text');
 
 function init() {
     renderSlides();
@@ -250,6 +240,7 @@ function init() {
 function toggleLanguage() {
     currentLang = currentLang === 'en' ? 'es' : 'en';
     langText.textContent = translations[currentLang].toggle;
+    footerText.innerHTML = translations[currentLang].footer;
     renderSlides();
     updateSlideVisibility();
 }
@@ -260,7 +251,7 @@ function renderSlides() {
     
     slidesData.forEach((slide, index) => {
         const slideEl = document.createElement('div');
-        slideEl.className = `slide ${slide.type === 'title' ? 'slide-title-page' : ''} ${index === currentSlide ? 'active' : ''}`;
+        slideEl.className = `slide ${slide.type === 'title' ? 'slide-title-page' : ''}`;
         
         let contentHtml = '';
         if (slide.type === 'title') {
@@ -283,16 +274,13 @@ function renderSlides() {
             contentHtml = `
                 <h2 class="slide-title animate-in">${slide.title}</h2>
                 <div class="slide-grid animate-in" style="animation-delay: 0.2s">
-                    <div class="slide-image-container">
-                        <img src="${slide.images[0]}" alt="Property View">
+                    <div class="slide-image-wrapper">
+                        <img src="${slide.image}" alt="${slide.title}">
                     </div>
                     <div class="slide-content">
                         <ul class="slide-list">
                             ${slide.content.map(item => `<li>${item}</li>`).join('')}
                         </ul>
-                        <div class="image-gallery" style="display: flex; gap: 10px; margin-top: 20px;">
-                            ${slide.images.slice(1).map(img => `<img src="${img}" style="width: 45%; height: 100px; object-fit: cover; border-radius: 4px;">`).join('')}
-                        </div>
                     </div>
                 </div>
             `;
@@ -330,7 +318,13 @@ function updateSlideVisibility() {
     const dots = document.querySelectorAll('.dot');
     
     slides.forEach((slide, index) => {
-        slide.classList.toggle('active', index === currentSlide);
+        if (index === currentSlide) {
+            slide.classList.add('active');
+            slide.style.display = 'flex';
+        } else {
+            slide.classList.remove('active');
+            slide.style.display = 'none';
+        }
     });
     
     dots.forEach((dot, index) => {
