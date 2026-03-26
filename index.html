@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encanto Hospital & Casino Resort - Executive Plan</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">
+            <span class="logo-accent">ENCANTO</span> PROJECT
+        </div>
+        <div class="nav-controls">
+            <button id="lang-toggle" class="btn-toggle">
+                <span id="lang-text">ESPAÑOL</span>
+            </button>
+        </div>
+    </header>
+
+    <main id="presentation-container" class="presentation-container">
+        <!-- Slides will be dynamically injected here -->
+        <div id="slide-viewer" class="slide-viewer"></div>
+    </main>
+
+    <nav class="presentation-nav">
+        <button id="prev-btn" class="nav-btn" aria-label="Previous Slide">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <div id="progress-dots" class="progress-dots"></div>
+        <button id="next-btn" class="nav-btn" aria-label="Next Slide">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+    </nav>
+
+    <footer class="footer">
+        <p>&copy; 2026 Encanto Hospital & Casino Resort. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
