@@ -27,11 +27,22 @@ const translations = {
                 title: "Advanced Medical Hub",
                 image: "assets/stem_cell_hospital.png",
                 content: [
-                    "Lower Levels: State-of-the-art Stem Cell Hospital for international patients.",
-                    "Medical Tourism: Capturing high-value segments from the US and Canada.",
-                    "Research: Partnership with global biotech leaders in regenerative medicine.",
-                    "Mid-Levels: Integrated Casino and Luxury Retail stores for a complete experience.",
-                    "Accessibility: 3 blocks from the ocean, combining recovery with serenity."
+                    "Stem Cell Focus: Specializing in regenerative therapies and advanced recovery.",
+                    "Elite Leadership: Led by Dr. Jaime León Varela and Navy Captain Dr. Miguel Ángel Padilla.",
+                    "International Hub: Capturing high-value segments from the US and Canada.",
+                    "Architecture: State-of-the-art medical wings integrated with luxury leisure.",
+                    "Synergy: Medical tourism as the anchor for the entire resort ecosystem."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Medical Excellence",
+                content: [
+                    "Dr. Jaime León Varela: Director of Linkage for the Sonora Secretary of Health & Strategic Coordinator.",
+                    "Dr. Miguel Ángel Padilla: Navy Captain Surgeon & Pioneer in Robotic Thoracic Surgery.",
+                    "Global Training: Expertise from M.D. Anderson (Houston) & Albert Einstein (Brazil).",
+                    "Surgical Mastery: Over 1,250 complex procedures performed with elite success rates.",
+                    "High Standards: Compliance with Mexican Federal and International health protocols."
                 ]
             },
             {
@@ -76,7 +87,7 @@ const translations = {
                     "Liderazgo: Family Munro - Decades of political and security influence in Sonora.",
                     "Ernesto Roger Munro Jr: Harvard/MIT-educated legal and municipal expert.",
                     "TRS Construction: US-based partner (Mesa, AZ) ensuring quality delivery.",
-                    "HSUS Medical Group: Experts in large-scale healthcare management.",
+                    "Strategic Synergy: Combining health, gaming, and premium real estate.",
                     "Timeline: NDA -> Due Diligence -> LOI within 30 days."
                 ]
             },
@@ -121,11 +132,22 @@ const translations = {
                 title: "Centro Médico Avanzado",
                 image: "assets/stem_cell_hospital.png",
                 content: [
-                    "Niveles Inferiores: Hospital de Células Madre de vanguardia para pacientes internacionales.",
-                    "Turismo Médico: Captando segmentos de alto valor de EE. UU. y Canadá.",
-                    "Investigación: Alianza con líderes biotecnológicos en medicina regenerativa.",
-                    "Niveles Medios: Casino integrado y tiendas de lujo para una experiencia completa.",
-                    "Accesibilidad: A 3 cuadras del mar, combinando recuperación con serenidad."
+                    "Células Madre: Especialización en terapias regenerativas y recuperación avanzada.",
+                    "Liderazgo de Élite: Dirigido por el Dr. Jaime León Varela y el Capitán de Marina Dr. Miguel Ángel Padilla.",
+                    "Hub Internacional: Captando pacientes de alto valor de EE. UU. y Canadá.",
+                    "Arquitectura: Alas médicas de vanguardia integradas con ocio de gran lujo.",
+                    "Sinergia: El turismo médico como ancla de todo el ecosistema del resort."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Excelencia Médica",
+                content: [
+                    "Dr. Jaime León Varela: Director de Vinculación de la Secretaría de Salud de Sonora.",
+                    "Dr. Miguel Ángel Padilla: Capitán de Marina y Pionero en Cirugía Torácica Robótica.",
+                    "Formación Global: Experiencia en M.D. Anderson (Houston) y Albert Einstein (Brasil).",
+                    "Maestría Quirúrgica: Más de 1,250 procedimientos complejos realizados con éxito.",
+                    "Altos Estándares: Cumplimiento de protocolos federales e internacionales de salud."
                 ]
             },
             {
@@ -170,7 +192,7 @@ const translations = {
                     "Liderazgo: Familia Munro - Décadas de influencia política y de seguridad en Sonora.",
                     "Ernesto Roger Munro Jr: Experto legal y municipal educado en Harvard/MIT.",
                     "TRS Construction: Socio en EE. UU. (Mesa, AZ) garantizando calidad de entrega.",
-                    "HSUS Medical Group: Expertos en gestión de centros de salud a gran escala.",
+                    "Sinergia Estratégica: Combinando salud, entretenimiento y real estate premium.",
                     "Hoja de Ruta: NDA -> Debida Diligencia -> Carta de Intención (LOI) en 30 días."
                 ]
             },
