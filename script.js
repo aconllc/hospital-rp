@@ -70,6 +70,42 @@ const translations = {
                 ]
             },
             {
+                type: "grid",
+                title: "Ernesto 'Kiko' Munro Jr.",
+                subtitle: "Investment Leader & Legal Strategist",
+                content: [
+                    "Role: Two-term Mayor of Puerto Peñasco (2015-2021) and current Local Deputy.",
+                    "Expertise: Licensed Lawyer with specialized focus on municipal governance and legal security.",
+                    "Vision: Architect of the modern Puerto Peñasco infrastructure and tourism boom.",
+                    "Governance: Parliamentary Coordinator and key liaison for public-private partnerships.",
+                    "Heritage: Third-generation leader from one of the city's most respected founding families."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Ernesto Munro Palacio",
+                subtitle: "Institutional & Security Advisor",
+                content: [
+                    "Experience: Former Executive Secretary of Public Security for the State of Sonora.",
+                    "Leadership: Former President of PAN Sonora and long-standing State Deputy.",
+                    "Local Roots: Family heritage in Rocky Point dating back to 1928.",
+                    "Contribution: Ensuring the project's integration with state-level security and policy.",
+                    "Milestone: Decades of service as a pillar of political and business stability in Sonora."
+                ]
+            },
+            {
+                type: "image",
+                title: "Safe Corridor & Accessibility",
+                image: "assets/safe_corridor_map.png",
+                content: [
+                    "Proximity: Only a 3-hour drive from Phoenix and Tucson, Arizona.",
+                    "Access: Direct highway route known as the 'Safe Corridor' for international travelers.",
+                    "Aviation: Minutes away from Mar de Cortés International Airport.",
+                    "Medical Tourism: Perfectly positioned for the Arizona-Sonora cross-border health economy.",
+                    "Efficiency: Direct logistics and supply chain connection with Mesa (AZ) partners."
+                ]
+            },
+            {
                 type: "image",
                 title: "Luxury Living & Amenities",
                 image: "assets/luxury_living.png",
@@ -242,6 +278,42 @@ const translations = {
                     "TRS Construction: Socio en EE. UU. (Mesa, AZ) garantizando calidad de entrega.",
                     "Sinergia Estratégica: Combinando salud, entretenimiento y real estate premium.",
                     "Hoja de Ruta: NDA -> Debida Diligencia -> Carta de Intención (LOI) en 30 días."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Ernesto 'Kiko' Munro Jr.",
+                subtitle: "Líder de Inversión y Estratega Legal",
+                content: [
+                    "Rol: Alcalde de Puerto Peñasco en dos periodos (2015-2021) y actual Diputado Local.",
+                    "Experiencia: Abogado con enfoque especializado en gobernanza municipal y seguridad jurídica.",
+                    "Visión: Arquitecto de la infraestructura moderna y el auge turístico de Puerto Peñasco.",
+                    "Gobernanza: Coordinador Parlamentario y enlace clave para asociaciones público-privadas.",
+                    "Legado: Líder de tercera generación de una de las familias fundadoras más respetadas de la ciudad."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Ernesto Munro Palacio",
+                subtitle: "Asesor Institucional y de Seguridad",
+                content: [
+                    "Experiencia: Ex Secretario Ejecutivo de Seguridad Pública del Estado de Sonora.",
+                    "Liderazgo: Ex Presidente del PAN Sonora y Diputado Estatal de larga trayectoria.",
+                    "Raíces Locales: Herencia familiar en Rocky Point desde 1928.",
+                    "Contribución: Garantizar la integración del proyecto con la seguridad y política estatal.",
+                    "Trayectoria: Décadas de servicio como pilar de estabilidad política y empresarial en Sonora."
+                ]
+            },
+            {
+                type: "image",
+                title: "Corredor Seguro y Accesibilidad",
+                image: "assets/safe_corridor_map.png",
+                content: [
+                    "Proximidad: A solo 3 horas por carretera de Phoenix y Tucson, Arizona.",
+                    "Acceso: Ruta directa por carretera conocida como el 'Corredor Seguro'.",
+                    "Aviación: A minutos del Aeropuerto Internacional Mar de Cortés.",
+                    "Turismo Médico: Posicionado para la economía de salud transfronteriza Arizona-Sonora.",
+                    "Eficiencia: Conexión logística directa con socios en Mesa (AZ)."
                 ]
             },
             {
