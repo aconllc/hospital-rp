@@ -38,11 +38,35 @@ const translations = {
                 type: "grid",
                 title: "Medical Excellence",
                 content: [
-                    "Dr. Jaime León Varela: Director of Linkage for the Sonora Secretary of Health & Strategic Coordinator.",
-                    "Dr. Miguel Ángel Padilla: Navy Captain Surgeon & Pioneer in Robotic Thoracic Surgery.",
-                    "Global Training: Expertise from M.D. Anderson (Houston) & Albert Einstein (Brazil).",
-                    "Surgical Mastery: Over 1,250 complex procedures performed with elite success rates.",
-                    "High Standards: Compliance with Mexican Federal and International health protocols."
+                    "Elite Leadership: Led by world-class specialists with international credentials.",
+                    "Surgical Mastery: Multi-discipline expertise in thoracic and robotic surgeries.",
+                    "Research: Pioneer in regenerative medicine and stem cell therapies.",
+                    "Governance: Full alignment with Federal and State public health standards.",
+                    "Training: Specializations from M.D. Anderson (USA) and Albert Einstein (Brazil)."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Dr. Miguel Ángel Padilla González",
+                subtitle: "Navy Captain & Elite Thoracic Surgeon",
+                content: [
+                    "Specialization: General Thoracic Surgery at **M.D. Anderson Cancer Center (Houston, TX)**.",
+                    "Robotic Surgery: Postgraduate course at **Hospital Albert Einstein (São Paulo, Brazil)**.",
+                    "Career Milestone: Pioneer in thoracoscopy in Mexico (1999); 1,250+ procedures performed.",
+                    "Leadership: Former Chief of Pleuro-Pulmonary Surgery at **Hospital Central Militar**.",
+                    "Credentials: Graduated from **Military Medical School (1987)**; Member of the American College of Chest Physicians."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Dr. Jaime León Varela",
+                subtitle: "Director of Linkage & Strategic Health Coordinator",
+                content: [
+                    "Current Role: **Director of Linkage for the Secretaría de Salud de Sonora**.",
+                    "Expertise: Strategic coordination between private investment and public health infrastructure.",
+                    "Governance: Leading the institutional integration of the Encanto Medical Center in Sonora.",
+                    "Management: Decades of experience in high-level medical administration and state policy.",
+                    "Focus: Ensuring the project meets the rigorous standards of global medical tourism."
                 ]
             },
             {
@@ -143,11 +167,35 @@ const translations = {
                 type: "grid",
                 title: "Excelencia Médica",
                 content: [
-                    "Dr. Jaime León Varela: Director de Vinculación de la Secretaría de Salud de Sonora.",
-                    "Dr. Miguel Ángel Padilla: Capitán de Marina y Pionero en Cirugía Torácica Robótica.",
-                    "Formación Global: Experiencia en M.D. Anderson (Houston) y Albert Einstein (Brasil).",
-                    "Maestría Quirúrgica: Más de 1,250 procedimientos complejos realizados con éxito.",
-                    "Altos Estándares: Cumplimiento de protocolos federales e internacionales de salud."
+                    "Liderazgo de Élite: Dirigido por especialistas de clase mundial.",
+                    "Maestría Quirúrgica: Experiencia multidisciplinaria en cirugía torácica y robótica.",
+                    "Investigación: Pioneros en medicina regenerativa y terapias de células madre.",
+                    "Gobernanza: Alineación total con los estándares de salud federales y estatales.",
+                    "Formación: Especializaciones en M.D. Anderson (EE. UU.) y Albert Einstein (Brasil)."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Dr. Miguel Ángel Padilla González",
+                subtitle: "Capitán de Marina y Cirujano de Élite",
+                content: [
+                    "Especialización: Cirugía Torácica General en **M.D. Anderson Cancer Center (Houston, TX)**.",
+                    "Cirugía Robótica: Curso de postgrado en el **Hospital Albert Einstein (São Paulo, Brasil)**.",
+                    "Hito Profesional: Pionero en toracoscopía en México (1999); más de 1,250 procedimientos realizados.",
+                    "Liderazgo: Ex Jefe del Departamento de Cirugía Pleuro-Pulmonar del **Hospital Central Militar**.",
+                    "Credenciales: Graduado de la **Escuela Médico Militar (1987)**; Miembro del Colegio Americano de Médicos del Tórax."
+                ]
+            },
+            {
+                type: "grid",
+                title: "Dr. Jaime León Varela",
+                subtitle: "Director de Vinculación y Coordinador Estratégico",
+                content: [
+                    "Rol Actual: **Director de Vinculación de la Secretaría de Salud de Sonora**.",
+                    "Experiencia: Coordinación estratégica entre inversión privada e infraestructura de salud pública.",
+                    "Gobernanza: Liderando la integración institucional del Centro Médico Encanto en Sonora.",
+                    "Gestión: Décadas de experiencia en administración médica de alto nivel y política estatal.",
+                    "Enfoque: Garantizar que el proyecto cumpla con los estándares más exigosos del turismo médico global."
                 ]
             },
             {
